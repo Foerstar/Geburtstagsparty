@@ -1,3 +1,5 @@
 Raspberry
 Soundbar
 Switch
+Stift
+Headset
